@@ -14,5 +14,6 @@ public class SalutLume {
   public static void main(String[] args) {
     System.out.println("Primul programa JAVA!");
     System.out.println("Data, ora: "+ new Date());
+    System.out.println("Test1")
   }
 } ///:~
